@@ -10,7 +10,7 @@ on:
 
 jobs:
    Read_Hello_File:
-    runs-on: ubuntu-latest
+    runs-on: Barun
     steps:
       - name: Git CLone
         uses: actions/checkout@v2
